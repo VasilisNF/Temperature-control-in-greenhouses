@@ -1,2 +1,2 @@
 # Temperature-control-in-greenhouses-
-Temperature control in greenhouses using a microprocessor and electric motor to open and close the window
+A considerable number of plants display high sensitivity towards drastic temperature changes and require precise warmth levels for optimal growth. This undertaking involves the implementation and regulation of a suitable electrical system capable of adjusting a movable window to maintain the internal temperature of a greenhouse at the desired level. To guarantee consistent temperature monitoring and control, the planning, simulation, installation, and verification of the controlling electronics, transducer, and any additional circuitry are necessary.
